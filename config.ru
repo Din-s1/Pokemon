@@ -1,3 +1,3 @@
-require 'rack'
+require_relative './app'
 
-run './app.rb'
+run Pokemon
